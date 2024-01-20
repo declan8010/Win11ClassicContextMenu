@@ -1,10 +1,10 @@
 # Windows 11 Context Menu Restorer
 
-![Windows 11 Context Menu Restorer](icon.png)
-
 ## Introduction
 
 If you miss the old-style context menus from previous versions of Windows and want to bring them back in Windows 11, this script is here to help. The Windows 11 Context Menu Restorer allows you to easily switch between the modern Windows 11 context menu and the classic Windows 10-style context menu with just a few clicks.
+
+![windows11_new_and_old_context_menu](https://github.com/declan1080/Win11ClassicContextMenu/assets/150525624/69d67470-0a20-4d7d-be36-41bf980afac4)
 
 ## Features
 
